@@ -1,0 +1,12 @@
+{
+    "display_name": "RP Calendar",
+    "loading_order": 15,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Custom",
+    "version": "2.0.0",
+    "homePage": "",
+    "auto_update": false
+}
